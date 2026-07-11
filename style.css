@@ -77,3 +77,26 @@ body > a:hover {
     text-decoration: none;
 }
 
+ul, ol {
+    margin-left: 25px;
+    margin-right: 20px;
+}
+
+li {
+    margin-bottom: 12px;
+}
+
+p {
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+footer > p{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #7f8c8d;
+    border-top: 1px solid #e0e0e0;
+    padding-top: 20px;
+}
+
