@@ -48,3 +48,32 @@ img {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
+/* Style for a link */
+a {
+    color: #2980b9;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #c0392b;
+    text-decoration: underline;
+}
+
+body > a{
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 8px 16px;
+    background-color: #ecf0f1;
+    border-radius: 6px;
+    color: #2c3e50;
+    font-weight: bold;
+    border: 1px solid #bdc3c7;
+}
+
+body > a:hover {
+    background-color: #bdc3c7;
+    text-decoration: none;
+}
+
