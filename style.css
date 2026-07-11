@@ -1,0 +1,17 @@
+/* Reset để các trình duyệt hiển thị giống nhau */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Căn giữa trang web và thiết lập font tổng thể */
+body {
+    font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333333;
+    background-color: #f9f9f9;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
