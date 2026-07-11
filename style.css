@@ -37,3 +37,14 @@ h3 {
     margin-top: 20px;
     margin-bottom: 10px;
 }
+
+/* Style for image */
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin: 0 auto 25px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
